@@ -1,2 +1,4 @@
 # minicursogit
 git
+
+Repositório compartilhado
